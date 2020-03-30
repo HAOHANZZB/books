@@ -79,19 +79,18 @@ body{
 }
 
 .options{
-  width:100%;
   margin-top: 15px;
   color: #f4f4f480;
   overflow: hidden;
 }
 
 .remember-me{
+  width: 125px;
   color: black;
   display: flex;
   align-items: center;
   cursor: pointer;
   padding-bottom: 20px;
-  padding-right: 30px;
   font-size: 14px;
 }
 
