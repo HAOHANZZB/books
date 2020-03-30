@@ -86,7 +86,7 @@ body{
 
 .remember-me{
   width: 125px;
-  color: black;
+  color: rgba(115,115,115,1);
   display: flex;
   align-items: center;
   cursor: pointer;
